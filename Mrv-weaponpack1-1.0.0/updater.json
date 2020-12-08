@@ -1,9 +1,9 @@
 {
 	"name": "weaponpack1",
 	"author": "Mrv",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"forceDowngrade": false,
-	"downloadUpdateUrl": "",
+	"downloadUpdateUrl": "https://github.com/Mrvegangraphics/weaponpack1/archive/1.0.1.zip",
 	"excludeFromUpdate": [
 		"readme.md"
 	]
