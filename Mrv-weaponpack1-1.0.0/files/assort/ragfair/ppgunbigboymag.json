@@ -1,0 +1,10 @@
+{
+	"_id": "ppgunbigboymag",
+	"_tpl": "ppgunbigboymag",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

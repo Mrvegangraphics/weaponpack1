@@ -1,0 +1,10 @@
+{
+	"_id": "mcxsuppressor",
+	"_tpl": "mcxsuppressor",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

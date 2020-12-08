@@ -1,0 +1,10 @@
+{
+	"_id": "KelTekSub2000BufferTube",
+	"_tpl": "KelTekSub2000BufferTube",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"_id": "mcxreciever",
+	"_tpl": "mcxreciever",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

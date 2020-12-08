@@ -1,0 +1,10 @@
+{
+	"name": "weaponpack1",
+	"author": "Mrv",
+	"version": "1.0.0",
+	"forceDowngrade": false,
+	"downloadUpdateUrl": "",
+	"excludeFromUpdate": [
+		"readme.md"
+	]
+}

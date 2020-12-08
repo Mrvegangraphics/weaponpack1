@@ -1,0 +1,10 @@
+{
+	"_id": "mcxhandguardraiser2",
+	"_tpl": "mcxhandguardraiser2",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"_id": "KelTecSub2000reciverlift",
+	"_tpl": "KelTecSub2000reciverlift",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

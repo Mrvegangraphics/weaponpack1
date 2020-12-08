@@ -1,0 +1,10 @@
+{
+	"_id": "KelTecSub2000reciver2",
+	"_tpl": "KelTecSub2000reciver2",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

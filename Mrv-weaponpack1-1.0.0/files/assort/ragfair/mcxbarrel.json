@@ -1,0 +1,10 @@
+{
+	"_id": "mcxbarrel",
+	"_tpl": "mcxbarrel",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

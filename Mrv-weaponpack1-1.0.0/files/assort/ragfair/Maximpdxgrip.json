@@ -1,0 +1,10 @@
+{
+	"_id": "Maximpdxgrip",
+	"_tpl": "Maximpdxgrip",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

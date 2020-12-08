@@ -1,0 +1,10 @@
+{
+	"_id": "KelTekSub2000Barrel",
+	"_tpl": "KelTekSub2000Barrel",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

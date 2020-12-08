@@ -1,0 +1,10 @@
+{
+	"_id": "Maximpdx",
+	"_tpl": "Maximpdx",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

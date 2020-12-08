@@ -1,0 +1,10 @@
+{
+	"_id": "ppgununder",
+	"_tpl": "ppgununder",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

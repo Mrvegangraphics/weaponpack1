@@ -1,0 +1,10 @@
+{
+	"_id": "KelTecSub2000Stockmount",
+	"_tpl": "KelTecSub2000Stockmount",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}
