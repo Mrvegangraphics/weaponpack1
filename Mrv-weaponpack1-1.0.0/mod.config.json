@@ -1,7 +1,7 @@
 {
   "name": "weaponpack1",
   "author": "Mrv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "autoUpdate": true,
   "checkUpdateUrl": "https://raw.githubusercontent.com/Mrvegangraphics/weaponpack1/main/Mrv-weaponpack1-1.0.0/updater.json",
